@@ -1,1 +1,38 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name='viewport' content='width=device-width, initial-scale=1.0'/>
+        <title>practwork</title>
+        <link rel="stylesheet" type="text/css" media="screen" href="pract.css">
+    </head>
+    <body>
+    
+    <header class="header">
+        <div class="container header__wrap">    
+            <a class="logo-wrap" href="#">
+                <img class="logo" src="logo.svg">
+            </a>
+            <h1 class="sale">Скидка 30%<br> на первый заказ</h1>
+            <h3 class="offer">Новым клиентам при заказе через сайт<br> или мобильное приложение</h3>
+        </div>
+    </header>
 
+
+
+
+
+
+        <div class="button"><a class="buttontxt">получить скидку</a></div>
+
+        <a class="subtitle">Лучше индгредиенты. Лучше пицца.</a>
+
+        <div class="window"><a class="cheese">Сыр</a>
+            <ul>Наш фирменный сыр – моцарелла отличного качества. Если хотите больше сыра, можете добавить опцию «сырный борт»</ul></div>
+        <div class="window1"><a class="sauce">Соус</a></div>
+            <ul></ul>
+        <div class="window2"></div>
+        <div class="window3"></div>
+
+    </body>
+</html>
